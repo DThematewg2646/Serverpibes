@@ -450,6 +450,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_illager_campsite": {
+    "criteria": {
+      "location0": "2025-01-11 16:17:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:bamboo_jungle": "2025-01-11 15:13:06 +0000",
@@ -457,7 +463,9 @@
       "minecraft:lukewarm_ocean": "2025-01-11 15:17:37 +0000",
       "minecraft:river": "2025-01-11 15:37:30 +0000",
       "minecraft:ocean": "2025-01-11 15:24:10 +0000",
-      "minecraft:old_growth_birch_forest": "2025-01-11 15:38:46 +0000"
+      "minecraft:flower_forest": "2025-01-11 16:17:22 +0000",
+      "minecraft:old_growth_birch_forest": "2025-01-11 15:38:46 +0000",
+      "minecraft:plains": "2025-01-11 16:17:43 +0000"
     },
     "done": false
   },

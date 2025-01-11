@@ -21731,3 +21731,38 @@ java.lang.Exception: Error: iceandfire:dread_lich is not a valid entity ID!
 2025-01-11 16:18:39,993 [33mWARN [m [m[Worker-Main-6][m [mn.m.w.e.EntityType.m_185999_(474)[m: Skipping Entity with id minecraft:allay
 2025-01-11 16:18:50,844 [32mINFO [m [m[Server thread][m [mn.m.s.d.DedicatedServer.m_6352_(656)[m: DThematewg has made the advancement [Your First Receptacle]
 2025-01-11 16:18:51,605 [33mWARN [m [m[Server thread][m [mn.m.s.MinecraftServer.m_130011_(843)[m: Can't keep up! Is the server overloaded? Running 6190ms or 123 ticks behind
+2025-01-11 16:18:56,397 [32mINFO [m [m[Server thread][m [mn.m.w.e.n.Villager.m_6667_(568)[m: Villager Villager['Beekeeper'/4280, l='ServerLevel[world]', x=-1408.63, y=64.00, z=1160.04] died, message: 'Beekeeper was shot by Pillager'
+2025-01-11 16:18:59,203 [32mINFO [m [m[Server thread][m [mn.m.s.d.DedicatedServer.m_6352_(656)[m: DThematewg has made the advancement [Knowledge raises the soul]
+2025-01-11 16:19:03,457 [32mINFO [m [m[Server thread][m [mn.m.w.e.n.Villager.m_6667_(568)[m: Villager Villager['Beekeeper'/4278, l='ServerLevel[world]', x=-1499.50, y=63.00, z=1166.30] died, message: 'Beekeeper was shot by Pillager'
+2025-01-11 16:22:34,813 [36mDEBUG[m [m[Server thread][m [mn.m.c.ForgeHooks.writeAdditionalLevelSaveData(1442)[m: Gathering id map for writing to world save world
+2025-01-11 16:22:34,829 [36mDEBUG[m [m[Server thread][m [mn.m.c.ForgeHooks.writeAdditionalLevelSaveData(1448)[m: ID Map collection complete world
+2025-01-11 16:22:49,508 [33mWARN [m [m[Server thread][m [m.handleStatisticsIncrease(1399)[m: Unhandled statistic: Stat{name=minecraft.custom:minecraft.waystone_activated, formatter=net.minecraft.stats.StatFormatter$$Lambda$3579/0x000078c220a6ba28@9a51965}
+2025-01-11 16:23:24,040 [32mINFO [m [m[Server thread][m [mn.m.w.e.n.Villager.m_6667_(568)[m: Villager Villager['Nitwit'/4433, l='ServerLevel[world]', x=-1466.92, y=62.80, z=1164.37] died, message: 'Nitwit was shot by Pillager'
+2025-01-11 16:24:04,477 [33mWARN [m [m[Server thread][m [mn.m.s.MinecraftServer.m_130011_(843)[m: Can't keep up! Is the server overloaded? Running 5012ms or 100 ticks behind
+2025-01-11 16:24:22,755 [32mINFO [m [m[Server thread][m [mn.m.s.d.DedicatedServer.m_6352_(656)[m: DThematewg has reached the goal [Plant Food]
+2025-01-11 16:24:28,922 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerGamePacketListenerImpl.m_9957_(1721)[m: DThematewg issued server command: /gamemode creative
+2025-01-11 16:24:28,923 [32mINFO [m [m[Server thread][m [mn.m.s.d.DedicatedServer.m_6352_(656)[m: [DThematewg: Set own game mode to Creative Mode]
+2025-01-11 16:24:52,735 [32mINFO [m [m[Server thread][m [mn.m.w.e.n.Villager.m_6667_(568)[m: Villager Villager['Nitwit'/4435, l='ServerLevel[world]', x=-1460.36, y=63.00, z=1169.36] died, message: 'Nitwit was shot by Pillager'
+2025-01-11 16:25:23,857 [33mWARN [m [m[Worker-Main-4][m [mn.m.s.l.WorldGenRegion.m_7702_(222)[m: Tried to access a block entity before it was created. BlockPos{x=-1108, y=-5, z=1617}
+2025-01-11 16:25:28,633 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerGamePacketListenerImpl.m_9957_(1721)[m: DThematewg issued server command: /tp paulg12 DThematewg
+2025-01-11 16:25:28,634 [32mINFO [m [m[Server thread][m [mn.m.s.d.DedicatedServer.m_6352_(656)[m: [DThematewg: Teleported paulg12 to DThematewg]
+2025-01-11 16:25:37,190 [33mWARN [m [m[Server thread][m [mn.m.s.n.ServerGamePacketListenerImpl.m_7185_(1104)[m: paulg12 moved too quickly! -0.41767119615565207,0.0,10.06981633053897
+2025-01-11 16:25:37,191 [33mWARN [m [m[Server thread][m [mn.m.s.MinecraftServer.m_130011_(843)[m: Can't keep up! Is the server overloaded? Running 7227ms or 144 ticks behind
+2025-01-11 16:26:16,796 [33mWARN [m [m[Server thread][m [mn.m.s.MinecraftServer.m_130011_(843)[m: Can't keep up! Is the server overloaded? Running 5031ms or 100 ticks behind
+2025-01-11 16:26:31,684 [32mINFO [m [m[Server thread][m [mn.m.w.e.n.Villager.m_6667_(568)[m: Villager Villager['Beekeeper'/4227, l='ServerLevel[world]', x=-1409.39, y=64.00, z=1160.14] died, message: 'Beekeeper was shot by Pillager'
+2025-01-11 16:26:36,393 [33mWARN [m [m[Server thread][m [m.handleStatisticsIncrease(1399)[m: Unhandled statistic: Stat{name=minecraft.custom:tombstone.raider_killed, formatter=net.minecraft.stats.StatFormatter$$Lambda$3579/0x000078c220a6ba28@9a51965}
+2025-01-11 16:26:36,394 [32mINFO [m [m[Server thread][m [mn.m.s.d.DedicatedServer.m_6352_(656)[m: paulg12 has made the advancement [Knowledge of Death]
+2025-01-11 16:26:36,395 [32mINFO [m [m[Server thread][m [mn.m.s.d.DedicatedServer.m_6352_(656)[m: paulg12 has made the advancement [Ambush]
+2025-01-11 16:26:36,395 [32mINFO [m [m[Server thread][m [mn.m.s.d.DedicatedServer.m_6352_(656)[m: paulg12 has made the advancement [Monster Hunter]
+2025-01-11 16:26:53,374 [33mWARN [m [m[Server thread][m [mn.m.s.MinecraftServer.m_130011_(843)[m: Can't keep up! Is the server overloaded? Running 6609ms or 132 ticks behind
+2025-01-11 16:27:12,135 [32mINFO [m [m[Server thread][m [mn.m.s.d.DedicatedServer.m_6352_(656)[m: paulg12 has made the advancement [People Are Strange]
+2025-01-11 16:27:15,401 [32mINFO [m [m[Server thread][m [mn.m.w.e.n.Villager.m_6667_(568)[m: Villager Villager['Fisherman'/4785, l='ServerLevel[world]', x=-1509.50, y=65.00, z=1177.13] died, message: 'Fisherman was slain by Vindicator'
+2025-01-11 16:27:32,473 [33mWARN [m [m[Server thread][m [mn.m.s.MinecraftServer.m_130011_(843)[m: Can't keep up! Is the server overloaded? Running 9108ms or 182 ticks behind
+2025-01-11 16:28:09,190 [33mWARN [m [m[Server thread][m [mn.m.s.MinecraftServer.m_130011_(843)[m: Can't keep up! Is the server overloaded? Running 6726ms or 134 ticks behind
+2025-01-11 16:28:16,362 [36mDEBUG[m [m[Server thread][m [mn.m.c.ForgeHooks.writeAdditionalLevelSaveData(1442)[m: Gathering id map for writing to world save world
+2025-01-11 16:28:16,379 [36mDEBUG[m [m[Server thread][m [mn.m.c.ForgeHooks.writeAdditionalLevelSaveData(1448)[m: ID Map collection complete world
+2025-01-11 16:28:26,007 [32mINFO [m [m[Server thread][m [mn.m.w.e.n.Villager.m_6667_(568)[m: Villager Villager['Fisherman'/4789, l='ServerLevel[world]', x=-1495.22, y=69.00, z=1251.24] died, message: 'Fisherman was slain by Vindicator'
+2025-01-11 16:28:43,872 [32mINFO [m [m[Server thread][m [mn.m.w.e.n.Villager.m_6667_(568)[m: Villager Villager['Nitwit'/4431, l='ServerLevel[world]', x=-1458.94, y=62.55, z=1143.94] died, message: 'Nitwit was shot by Pillager'
+2025-01-11 16:28:56,450 [33mWARN [m [m[Server thread][m [mn.m.s.MinecraftServer.m_130011_(843)[m: Can't keep up! Is the server overloaded? Running 17285ms or 345 ticks behind
+2025-01-11 16:29:00,177 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerGamePacketListenerImpl.m_9957_(1721)[m: DThematewg issued server command: /lagg clear
+2025-01-11 16:29:05,101 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerGamePacketListenerImpl.m_9957_(1721)[m: DThematewg issued server command: /lagg
