@@ -345,6 +345,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/fortuitous_militia": {
+    "criteria": {
+      "coded_trigger": "2025-01-11 16:47:27 +0000"
+    },
+    "done": true
+  },
   "artifacts:amateur_archaeologist": {
     "criteria": {
       "find_artifact": "2025-01-11 15:34:34 +0000"
@@ -475,6 +481,12 @@
   "iammusicplayer:iammusicplayer/root": {
     "criteria": {
       "iammusicplayer": "2025-01-11 16:14:34 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_illager_campsite": {
+    "criteria": {
+      "location0": "2025-01-11 16:47:36 +0000"
     },
     "done": true
   },
@@ -661,6 +673,7 @@
     "criteria": {
       "minecraft:pillager": "2025-01-11 15:51:43 +0000",
       "minecraft:skeleton": "2025-01-11 16:13:43 +0000",
+      "minecraft:vindicator": "2025-01-11 16:47:46 +0000",
       "minecraft:spider": "2025-01-11 16:15:34 +0000"
     },
     "done": false
@@ -734,6 +747,12 @@
   "dungeons_arise:find_mushroom_mines": {
     "criteria": {
       "location0": "2025-01-11 16:12:24 +0000"
+    },
+    "done": true
+  },
+  "furnish:carpet_everything": {
+    "criteria": {
+      "place_carpet": "2025-01-11 16:48:26 +0000"
     },
     "done": true
   },

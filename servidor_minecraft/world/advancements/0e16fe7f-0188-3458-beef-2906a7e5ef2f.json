@@ -306,6 +306,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_monasteries": {
+    "criteria": {
+      "location0": "2025-01-11 16:43:45 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_gray": {
     "criteria": {
       "has_the_recipe": "2025-01-11 15:13:06 +0000"
@@ -477,6 +483,7 @@
       "minecraft:lukewarm_ocean": "2025-01-11 15:17:37 +0000",
       "minecraft:river": "2025-01-11 15:37:30 +0000",
       "minecraft:cold_ocean": "2025-01-11 16:34:50 +0000",
+      "minecraft:forest": "2025-01-11 16:40:38 +0000",
       "minecraft:ocean": "2025-01-11 15:24:10 +0000",
       "minecraft:flower_forest": "2025-01-11 16:17:22 +0000",
       "minecraft:old_growth_birch_forest": "2025-01-11 15:38:46 +0000",
@@ -589,6 +596,12 @@
   "mcwfences:recipes/prismarine": {
     "criteria": {
       "has_qq": "2025-01-11 15:13:05 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:the_bumblezone/combs_and_beeswax/comb_cutter_tool": {
+    "criteria": {
+      "comb_cutter_tool": "2025-01-11 16:44:20 +0000"
     },
     "done": true
   },
@@ -729,6 +742,12 @@
   "create:root": {
     "criteria": {
       "0": "2025-01-11 15:13:05 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_infested_temple_map": {
+    "criteria": {
+      "find_map": "2025-01-11 16:44:00 +0000"
     },
     "done": true
   },

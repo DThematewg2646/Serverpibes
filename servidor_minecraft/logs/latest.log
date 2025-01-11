@@ -2509,3 +2509,44 @@ java.lang.Exception: Error: iceandfire:dread_lich is not a valid entity ID!
 2025-01-11 16:38:09,761 [33mWARN [m [m[Server thread][m [m.handleStatisticsIncrease(1399)[m: Unhandled statistic: Stat{name=minecraft.custom:tombstone.undead_killed, formatter=net.minecraft.stats.StatFormatter$$Lambda$3579/0x000078c220a6ba28@9a51965}
 2025-01-11 16:38:19,168 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerGamePacketListenerImpl.m_9957_(1721)[m: DThematewg issued server command: /tp @a DThematewg
 2025-01-11 16:38:19,169 [32mINFO [m [m[Server thread][m [mn.m.s.d.DedicatedServer.m_6352_(656)[m: [DThematewg: Teleported 3 entities to DThematewg]
+2025-01-11 16:40:05,628 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerGamePacketListenerImpl.m_7026_(1554)[m: DThematewg lost connection: Disconnected
+2025-01-11 16:40:05,665 [32mINFO [m [m[Server thread][m [mn.m.s.d.DedicatedServer.m_6352_(656)[m: DThematewg left the game
+2025-01-11 16:40:50,122 [33mWARN [m [m[Server thread][m [mn.m.s.MinecraftServer.m_130011_(843)[m: Can't keep up! Is the server overloaded? Running 5007ms or 100 ticks behind
+2025-01-11 16:41:08,604 [32mINFO [m [m[Server thread][m [mn.m.s.d.DedicatedServer.m_6352_(656)[m: paulg12 was slain by Corpse Fly
+2025-01-11 16:41:08,619 [32mINFO [m [m[Server thread][m [mtombstone.lambda$handlePlayerDamage$6(486)[m: The player paulg12 has successfully been saved
+2025-01-11 16:41:12,495 [32mINFO [m [m[Server thread][m [mtac.InformPlayerOfUpdate(66)[m: PENDING
+2025-01-11 16:42:11,700 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerGamePacketListenerImpl.m_7026_(1554)[m: paulg12 lost connection: Disconnected
+2025-01-11 16:42:11,704 [32mINFO [m [m[Server thread][m [mn.m.s.d.DedicatedServer.m_6352_(656)[m: paulg12 left the game
+2025-01-11 16:43:22,206 [32mINFO [m [m[User Authenticator #3][m [mn.m.s.n.ServerLoginPacketListenerImpl.fireEvents(401)[m: UUID of player DThematewg is f916beb2-5f3a-3c37-9c52-d2a4674800f8
+2025-01-11 16:43:27,813 [32mINFO [m [m[Server thread][m [mn.m.c.AdvancementLoadFix.loadVisibility(36)[m: Using new advancement loading for net.minecraft.server.PlayerAdvancements@753a9c8
+2025-01-11 16:43:27,863 [32mINFO [m [m[Server thread][m [mtac.InformPlayerOfUpdate(66)[m: PENDING
+2025-01-11 16:43:27,893 [32mINFO [m [m[Server thread][m [mn.m.s.p.PlayerList.m_11261_(338)[m: DThematewg[/127.149.70.107:41843] logged in with entity id 14161 at (-1532.933590192302, 67.0, 1095.3753575321978)
+2025-01-11 16:44:20,462 [32mINFO [m [m[Server thread][m [mn.m.s.d.DedicatedServer.m_6352_(656)[m: tuMaridoBelcast  has made the advancement [Beeswax Ninja]
+2025-01-11 16:44:24,560 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerGamePacketListenerImpl.m_9957_(1721)[m: DThematewg issued server command: /gamemode survival
+2025-01-11 16:44:24,561 [32mINFO [m [m[Server thread][m [mn.m.s.d.DedicatedServer.m_6352_(656)[m: [DThematewg: Set own game mode to Survival Mode]
+2025-01-11 16:44:54,310 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerGamePacketListenerImpl.m_7026_(1554)[m: DThematewg lost connection: Disconnected
+2025-01-11 16:44:54,357 [32mINFO [m [m[Server thread][m [mn.m.s.d.DedicatedServer.m_6352_(656)[m: DThematewg left the game
+2025-01-11 16:45:00,817 [32mINFO [m [m[User Authenticator #4][m [mn.m.s.n.ServerLoginPacketListenerImpl.fireEvents(401)[m: UUID of player DThematewg is f916beb2-5f3a-3c37-9c52-d2a4674800f8
+2025-01-11 16:45:06,340 [32mINFO [m [m[Server thread][m [mn.m.c.AdvancementLoadFix.loadVisibility(36)[m: Using new advancement loading for net.minecraft.server.PlayerAdvancements@543dad5c
+2025-01-11 16:45:06,379 [32mINFO [m [m[Server thread][m [mtac.InformPlayerOfUpdate(66)[m: PENDING
+2025-01-11 16:45:06,386 [32mINFO [m [m[Server thread][m [mn.m.s.p.PlayerList.m_11261_(338)[m: DThematewg[/127.149.70.107:42305] logged in with entity id 14966 at (-1529.3412182093707, 72.5, 1094.199999988079)
+2025-01-11 16:45:24,666 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerGamePacketListenerImpl.m_9957_(1721)[m: DThematewg issued server command: /gamemode creative
+2025-01-11 16:45:24,668 [32mINFO [m [m[Server thread][m [mn.m.s.d.DedicatedServer.m_6352_(656)[m: [DThematewg: Set own game mode to Creative Mode]
+2025-01-11 16:45:37,737 [32mINFO [m [m[Server thread][m [mn.m.w.e.n.Villager.m_6667_(568)[m: Villager Villager['Fisherman'/15058, l='ServerLevel[world]', x=-1483.70, y=63.00, z=1188.41] died, message: 'Fisherman was slain by Vindicator'
+2025-01-11 16:46:01,750 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerGamePacketListenerImpl.m_9957_(1721)[m: DThematewg issued server command: /gamemode survival
+2025-01-11 16:46:01,751 [32mINFO [m [m[Server thread][m [mn.m.s.d.DedicatedServer.m_6352_(656)[m: [DThematewg: Set own game mode to Survival Mode]
+2025-01-11 16:46:26,091 [32mINFO [m [m[Server thread][m [mn.m.w.e.n.Villager.m_6667_(568)[m: Villager Villager['Beekeeper'/15148, l='ServerLevel[world]', x=-1414.91, y=63.00, z=1175.12] died, message: 'Beekeeper was shot by Pillager'
+2025-01-11 16:47:27,157 [33mWARN [m [m[Server thread][m [m.handleStatisticsIncrease(1399)[m: Unhandled statistic: Stat{name=minecraft.custom:tombstone.raider_killed, formatter=net.minecraft.stats.StatFormatter$$Lambda$3579/0x000078c220a6ba28@9a51965}
+2025-01-11 16:47:27,158 [32mINFO [m [m[Server thread][m [mn.m.s.d.DedicatedServer.m_6352_(656)[m: DThematewg has reached the goal [Fortuitous Militia]
+2025-01-11 16:47:36,205 [33mWARN [m [m[Server thread][m [m.handleStatisticsIncrease(1399)[m: Unhandled statistic: Stat{name=minecraft.custom:tombstone.raider_killed, formatter=net.minecraft.stats.StatFormatter$$Lambda$3579/0x000078c220a6ba28@9a51965}
+2025-01-11 16:47:36,206 [33mWARN [m [m[Server thread][m [m.handleStatisticsIncrease(1399)[m: Unhandled statistic: Stat{name=minecraft.custom:tombstone.raider_killed, formatter=net.minecraft.stats.StatFormatter$$Lambda$3579/0x000078c220a6ba28@9a51965}
+2025-01-11 16:47:36,207 [33mWARN [m [m[Server thread][m [m.handleStatisticsIncrease(1399)[m: Unhandled statistic: Stat{name=minecraft.custom:tombstone.raider_killed, formatter=net.minecraft.stats.StatFormatter$$Lambda$3579/0x000078c220a6ba28@9a51965}
+2025-01-11 16:47:36,354 [32mINFO [m [m[Server thread][m [mn.m.s.d.DedicatedServer.m_6352_(656)[m: DThematewg has made the advancement [People Are Strange]
+2025-01-11 16:47:42,099 [33mWARN [m [m[Server thread][m [m.handleStatisticsIncrease(1399)[m: Unhandled statistic: Stat{name=minecraft.custom:tombstone.raider_killed, formatter=net.minecraft.stats.StatFormatter$$Lambda$3579/0x000078c220a6ba28@9a51965}
+2025-01-11 16:47:46,058 [33mWARN [m [m[Server thread][m [m.handleStatisticsIncrease(1399)[m: Unhandled statistic: Stat{name=minecraft.custom:tombstone.raider_killed, formatter=net.minecraft.stats.StatFormatter$$Lambda$3579/0x000078c220a6ba28@9a51965}
+2025-01-11 16:47:51,456 [33mWARN [m [m[Server thread][m [m.handleStatisticsIncrease(1399)[m: Unhandled statistic: Stat{name=minecraft.custom:tombstone.raider_killed, formatter=net.minecraft.stats.StatFormatter$$Lambda$3579/0x000078c220a6ba28@9a51965}
+2025-01-11 16:47:57,553 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerGamePacketListenerImpl.m_7026_(1554)[m: tuMaridoBelcast  lost connection: Disconnected
+2025-01-11 16:47:57,557 [32mINFO [m [m[Server thread][m [mn.m.s.d.DedicatedServer.m_6352_(656)[m: tuMaridoBelcast  left the game
+2025-01-11 16:48:26,896 [32mINFO [m [m[Server thread][m [mn.m.s.d.DedicatedServer.m_6352_(656)[m: DThematewg has made the advancement [Carpet Everything]
+2025-01-11 16:49:19,339 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerGamePacketListenerImpl.m_7026_(1554)[m: DThematewg lost connection: Disconnected
+2025-01-11 16:49:19,369 [32mINFO [m [m[Server thread][m [mn.m.s.d.DedicatedServer.m_6352_(656)[m: DThematewg left the game
