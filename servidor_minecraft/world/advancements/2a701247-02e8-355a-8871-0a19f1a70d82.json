@@ -1,10 +1,4 @@
 {
-  "idas:idas_root": {
-    "criteria": {
-      "always": "2025-01-11 15:33:26 +0000"
-    },
-    "done": true
-  },
   "comforts:sleeping_bag_light_gray": {
     "criteria": {
       "has_the_recipe": "2025-01-11 15:33:26 +0000"
@@ -23,26 +17,7 @@
     },
     "done": true
   },
-  "comforts:sleeping_bag_red": {
-    "criteria": {
-      "has_the_recipe": "2025-01-11 15:33:26 +0000"
-    },
-    "done": true
-  },
-  "explorerscompass:explorers_compass_cracked_stone_bricks": {
-    "criteria": {
-      "has_recipe": "2025-01-11 15:33:26 +0000",
-      "has_cracked_stone_bricks": "2025-01-11 15:33:26 +0000"
-    },
-    "done": true
-  },
   "comforts:hammock_black": {
-    "criteria": {
-      "has_the_recipe": "2025-01-11 15:33:26 +0000"
-    },
-    "done": true
-  },
-  "comforts:sleeping_bag_red_from_white": {
     "criteria": {
       "has_the_recipe": "2025-01-11 15:33:26 +0000"
     },
@@ -72,61 +47,13 @@
     },
     "done": true
   },
-  "takesapillage:root": {
-    "criteria": {
-      "always": "2025-01-11 15:33:26 +0000"
-    },
-    "done": true
-  },
-  "comforts:sleeping_bag_magenta_from_white": {
-    "criteria": {
-      "has_the_recipe": "2025-01-11 15:33:26 +0000"
-    },
-    "done": true
-  },
   "comforts:sleeping_bag_lime_from_white": {
     "criteria": {
       "has_the_recipe": "2025-01-11 15:33:26 +0000"
     },
     "done": true
   },
-  "byg:root": {
-    "criteria": {
-      "tick": "2025-01-11 15:33:26 +0000"
-    },
-    "done": true
-  },
-  "comforts:hammock_magenta_from_white": {
-    "criteria": {
-      "has_the_recipe": "2025-01-11 15:33:26 +0000"
-    },
-    "done": true
-  },
-  "comforts:sleeping_bag_blue": {
-    "criteria": {
-      "has_the_recipe": "2025-01-11 15:33:26 +0000"
-    },
-    "done": true
-  },
-  "comforts:hammock_brown_from_white": {
-    "criteria": {
-      "has_the_recipe": "2025-01-11 15:33:26 +0000"
-    },
-    "done": true
-  },
-  "mcwfences:recipes/blackstone": {
-    "criteria": {
-      "has_blackstone": "2025-01-11 15:33:26 +0000"
-    },
-    "done": true
-  },
   "comforts:sleeping_bag_black_from_white": {
-    "criteria": {
-      "has_the_recipe": "2025-01-11 15:33:26 +0000"
-    },
-    "done": true
-  },
-  "friendsandfoes:misc/yellow_dye_from_buttercup": {
     "criteria": {
       "has_the_recipe": "2025-01-11 15:33:26 +0000"
     },
@@ -138,49 +65,13 @@
     },
     "done": true
   },
-  "minecraft:adventure/adventuring_time": {
-    "criteria": {
-      "minecraft:sparse_jungle": "2025-01-11 15:33:26 +0000"
-    },
-    "done": false
-  },
   "comforts:hammock_light_blue_from_white": {
     "criteria": {
       "has_the_recipe": "2025-01-11 15:33:26 +0000"
     },
     "done": true
   },
-  "comforts:hammock_blue_from_white": {
-    "criteria": {
-      "has_the_recipe": "2025-01-11 15:33:26 +0000"
-    },
-    "done": true
-  },
-  "comforts:sleeping_bag_gray_from_white": {
-    "criteria": {
-      "has_the_recipe": "2025-01-11 15:33:26 +0000"
-    },
-    "done": true
-  },
-  "comforts:sleeping_bag_orange": {
-    "criteria": {
-      "has_the_recipe": "2025-01-11 15:33:26 +0000"
-    },
-    "done": true
-  },
   "comforts:sleeping_bag_black": {
-    "criteria": {
-      "has_the_recipe": "2025-01-11 15:33:26 +0000"
-    },
-    "done": true
-  },
-  "mcwfences:recipes/nether": {
-    "criteria": {
-      "has_nether_brick": "2025-01-11 15:33:26 +0000"
-    },
-    "done": true
-  },
-  "comforts:sleeping_bag_cyan": {
     "criteria": {
       "has_the_recipe": "2025-01-11 15:33:26 +0000"
     },
@@ -204,18 +95,6 @@
     },
     "done": true
   },
-  "comforts:hammock_purple_from_white": {
-    "criteria": {
-      "has_the_recipe": "2025-01-11 15:33:26 +0000"
-    },
-    "done": true
-  },
-  "mcwfences:recipes/crimson": {
-    "criteria": {
-      "has_crimson": "2025-01-11 15:33:26 +0000"
-    },
-    "done": true
-  },
   "explorerscompass:explorers_compass_cobweb": {
     "criteria": {
       "has_recipe": "2025-01-11 15:33:26 +0000",
@@ -232,24 +111,6 @@
   "mowziesmobs:root": {
     "criteria": {
       "custom_test_name": "2025-01-11 15:33:26 +0000"
-    },
-    "done": true
-  },
-  "explorerscompass:explorers_compass": {
-    "criteria": {
-      "has_compass": "2025-01-11 15:33:26 +0000"
-    },
-    "done": true
-  },
-  "mcwfences:recipes/bamboo": {
-    "criteria": {
-      "has_bamboo": "2025-01-11 15:33:26 +0000"
-    },
-    "done": true
-  },
-  "mcwfences:recipes/prismarine": {
-    "criteria": {
-      "has_qq": "2025-01-11 15:33:26 +0000"
     },
     "done": true
   },
@@ -271,42 +132,6 @@
     },
     "done": true
   },
-  "comforts:sleeping_bag_pink_from_white": {
-    "criteria": {
-      "has_the_recipe": "2025-01-11 15:33:26 +0000"
-    },
-    "done": true
-  },
-  "comforts:hammock_red": {
-    "criteria": {
-      "has_the_recipe": "2025-01-11 15:33:26 +0000"
-    },
-    "done": true
-  },
-  "mcwfences:recipes/acacia": {
-    "criteria": {
-      "has_acacia": "2025-01-11 15:33:26 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:main/root": {
-    "criteria": {
-      "seeds": "2025-01-11 15:33:26 +0000"
-    },
-    "done": true
-  },
-  "comforts:hammock_black_from_white": {
-    "criteria": {
-      "has_the_recipe": "2025-01-11 15:33:26 +0000"
-    },
-    "done": true
-  },
-  "comforts:sleeping_bag_yellow_from_white": {
-    "criteria": {
-      "has_the_recipe": "2025-01-11 15:33:26 +0000"
-    },
-    "done": true
-  },
   "comforts:sleeping_bag_purple_from_white": {
     "criteria": {
       "has_the_recipe": "2025-01-11 15:33:26 +0000"
@@ -316,12 +141,6 @@
   "mcwfences:recipes/jungle": {
     "criteria": {
       "has_jungle": "2025-01-11 15:33:26 +0000"
-    },
-    "done": true
-  },
-  "comforts:hammock_gray_from_white": {
-    "criteria": {
-      "has_the_recipe": "2025-01-11 15:33:26 +0000"
     },
     "done": true
   },
@@ -343,21 +162,9 @@
     },
     "done": true
   },
-  "mcwfences:recipes/quartz": {
-    "criteria": {
-      "has_qq": "2025-01-11 15:33:26 +0000"
-    },
-    "done": true
-  },
   "comforts:hammock_light_gray": {
     "criteria": {
       "has_the_recipe": "2025-01-11 15:33:26 +0000"
-    },
-    "done": true
-  },
-  "dungeons_arise:wda_root": {
-    "criteria": {
-      "WDA": "2025-01-11 15:33:26 +0000"
     },
     "done": true
   },
@@ -409,49 +216,7 @@
     },
     "done": true
   },
-  "comforts:hammock_green_from_white": {
-    "criteria": {
-      "has_the_recipe": "2025-01-11 15:33:26 +0000"
-    },
-    "done": true
-  },
-  "comforts:hammock_orange": {
-    "criteria": {
-      "has_the_recipe": "2025-01-11 15:33:26 +0000"
-    },
-    "done": true
-  },
-  "comforts:hammock_lime_from_white": {
-    "criteria": {
-      "has_the_recipe": "2025-01-11 15:33:26 +0000"
-    },
-    "done": true
-  },
-  "mcwfences:recipes/dark_oak": {
-    "criteria": {
-      "has_dark_oak": "2025-01-11 15:33:26 +0000"
-    },
-    "done": true
-  },
   "comforts:sleeping_bag_blue_from_white": {
-    "criteria": {
-      "has_the_recipe": "2025-01-11 15:33:26 +0000"
-    },
-    "done": true
-  },
-  "comforts:hammock_pink": {
-    "criteria": {
-      "has_the_recipe": "2025-01-11 15:33:26 +0000"
-    },
-    "done": true
-  },
-  "comforts:hammock_orange_from_white": {
-    "criteria": {
-      "has_the_recipe": "2025-01-11 15:33:26 +0000"
-    },
-    "done": true
-  },
-  "comforts:sleeping_bag_magenta": {
     "criteria": {
       "has_the_recipe": "2025-01-11 15:33:26 +0000"
     },
@@ -463,27 +228,9 @@
     },
     "done": true
   },
-  "comforts:sleeping_bag_cyan_from_white": {
-    "criteria": {
-      "has_the_recipe": "2025-01-11 15:33:26 +0000"
-    },
-    "done": true
-  },
-  "comforts:sleeping_bag_light_gray_from_white": {
-    "criteria": {
-      "has_the_recipe": "2025-01-11 15:33:26 +0000"
-    },
-    "done": true
-  },
   "comforts:hammock_lime": {
     "criteria": {
       "has_the_recipe": "2025-01-11 15:33:26 +0000"
-    },
-    "done": true
-  },
-  "create:root": {
-    "criteria": {
-      "0": "2025-01-11 15:33:26 +0000"
     },
     "done": true
   },
@@ -523,37 +270,7 @@
     },
     "done": true
   },
-  "comforts:hammock_brown": {
-    "criteria": {
-      "has_the_recipe": "2025-01-11 15:33:26 +0000"
-    },
-    "done": true
-  },
   "comforts:sleeping_bag_light_blue_from_white": {
-    "criteria": {
-      "has_the_recipe": "2025-01-11 15:33:26 +0000"
-    },
-    "done": true
-  },
-  "byg:biomepedia_gift": {
-    "criteria": {
-      "tick": "2025-01-11 15:33:26 +0000"
-    },
-    "done": true
-  },
-  "comforts:hammock_blue": {
-    "criteria": {
-      "has_the_recipe": "2025-01-11 15:33:26 +0000"
-    },
-    "done": true
-  },
-  "comforts:hammock_green": {
-    "criteria": {
-      "has_the_recipe": "2025-01-11 15:33:26 +0000"
-    },
-    "done": true
-  },
-  "comforts:hammock_gray": {
     "criteria": {
       "has_the_recipe": "2025-01-11 15:33:26 +0000"
     },
@@ -572,6 +289,314 @@
     "done": true
   },
   "comforts:hammock_magenta": {
+    "criteria": {
+      "has_the_recipe": "2025-01-11 15:33:26 +0000"
+    },
+    "done": true
+  },
+  "idas:idas_root": {
+    "criteria": {
+      "always": "2025-01-11 15:33:26 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_red": {
+    "criteria": {
+      "has_the_recipe": "2025-01-11 15:33:26 +0000"
+    },
+    "done": true
+  },
+  "explorerscompass:explorers_compass_cracked_stone_bricks": {
+    "criteria": {
+      "has_recipe": "2025-01-11 15:33:26 +0000",
+      "has_cracked_stone_bricks": "2025-01-11 15:33:26 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_red_from_white": {
+    "criteria": {
+      "has_the_recipe": "2025-01-11 15:33:26 +0000"
+    },
+    "done": true
+  },
+  "takesapillage:root": {
+    "criteria": {
+      "always": "2025-01-11 15:33:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_helmet": "2025-01-11 15:46:43 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_magenta_from_white": {
+    "criteria": {
+      "has_the_recipe": "2025-01-11 15:33:26 +0000"
+    },
+    "done": true
+  },
+  "byg:root": {
+    "criteria": {
+      "tick": "2025-01-11 15:33:26 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_magenta_from_white": {
+    "criteria": {
+      "has_the_recipe": "2025-01-11 15:33:26 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_blue": {
+    "criteria": {
+      "has_the_recipe": "2025-01-11 15:33:26 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_brown_from_white": {
+    "criteria": {
+      "has_the_recipe": "2025-01-11 15:33:26 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/blackstone": {
+    "criteria": {
+      "has_blackstone": "2025-01-11 15:33:26 +0000"
+    },
+    "done": true
+  },
+  "friendsandfoes:misc/yellow_dye_from_buttercup": {
+    "criteria": {
+      "has_the_recipe": "2025-01-11 15:33:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:sparse_jungle": "2025-01-11 15:33:26 +0000",
+      "minecraft:lukewarm_ocean": "2025-01-11 15:45:02 +0000"
+    },
+    "done": false
+  },
+  "comforts:hammock_blue_from_white": {
+    "criteria": {
+      "has_the_recipe": "2025-01-11 15:33:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-01-11 15:46:20 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_gray_from_white": {
+    "criteria": {
+      "has_the_recipe": "2025-01-11 15:33:26 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_orange": {
+    "criteria": {
+      "has_the_recipe": "2025-01-11 15:33:26 +0000"
+    },
+    "done": true
+  },
+  "immersive_aircraft:misc/aircraftery": {
+    "criteria": {
+      "has_item": "2025-01-11 15:46:40 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/nether": {
+    "criteria": {
+      "has_nether_brick": "2025-01-11 15:33:26 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_cyan": {
+    "criteria": {
+      "has_the_recipe": "2025-01-11 15:33:26 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_purple_from_white": {
+    "criteria": {
+      "has_the_recipe": "2025-01-11 15:33:26 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/crimson": {
+    "criteria": {
+      "has_crimson": "2025-01-11 15:33:26 +0000"
+    },
+    "done": true
+  },
+  "explorerscompass:explorers_compass": {
+    "criteria": {
+      "has_compass": "2025-01-11 15:33:26 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/bamboo": {
+    "criteria": {
+      "has_bamboo": "2025-01-11 15:33:26 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/prismarine": {
+    "criteria": {
+      "has_qq": "2025-01-11 15:33:26 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_pink_from_white": {
+    "criteria": {
+      "has_the_recipe": "2025-01-11 15:33:26 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_red": {
+    "criteria": {
+      "has_the_recipe": "2025-01-11 15:33:26 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/acacia": {
+    "criteria": {
+      "has_acacia": "2025-01-11 15:33:26 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/root": {
+    "criteria": {
+      "seeds": "2025-01-11 15:33:26 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_black_from_white": {
+    "criteria": {
+      "has_the_recipe": "2025-01-11 15:33:26 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_yellow_from_white": {
+    "criteria": {
+      "has_the_recipe": "2025-01-11 15:33:26 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_gray_from_white": {
+    "criteria": {
+      "has_the_recipe": "2025-01-11 15:33:26 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/quartz": {
+    "criteria": {
+      "has_qq": "2025-01-11 15:33:26 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:wda_root": {
+    "criteria": {
+      "WDA": "2025-01-11 15:33:26 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_green_from_white": {
+    "criteria": {
+      "has_the_recipe": "2025-01-11 15:33:26 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_orange": {
+    "criteria": {
+      "has_the_recipe": "2025-01-11 15:33:26 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_lime_from_white": {
+    "criteria": {
+      "has_the_recipe": "2025-01-11 15:33:26 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/dark_oak": {
+    "criteria": {
+      "has_dark_oak": "2025-01-11 15:33:26 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_pink": {
+    "criteria": {
+      "has_the_recipe": "2025-01-11 15:33:26 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_orange_from_white": {
+    "criteria": {
+      "has_the_recipe": "2025-01-11 15:33:26 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_magenta": {
+    "criteria": {
+      "has_the_recipe": "2025-01-11 15:33:26 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_cyan_from_white": {
+    "criteria": {
+      "has_the_recipe": "2025-01-11 15:33:26 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_light_gray_from_white": {
+    "criteria": {
+      "has_the_recipe": "2025-01-11 15:33:26 +0000"
+    },
+    "done": true
+  },
+  "create:root": {
+    "criteria": {
+      "0": "2025-01-11 15:33:26 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_brown": {
+    "criteria": {
+      "has_the_recipe": "2025-01-11 15:33:26 +0000"
+    },
+    "done": true
+  },
+  "byg:biomepedia_gift": {
+    "criteria": {
+      "tick": "2025-01-11 15:33:26 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_blue": {
+    "criteria": {
+      "has_the_recipe": "2025-01-11 15:33:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2025-01-11 15:46:40 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_green": {
+    "criteria": {
+      "has_the_recipe": "2025-01-11 15:33:26 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_gray": {
     "criteria": {
       "has_the_recipe": "2025-01-11 15:33:26 +0000"
     },
