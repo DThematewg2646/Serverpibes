@@ -21766,3 +21766,64 @@ java.lang.Exception: Error: iceandfire:dread_lich is not a valid entity ID!
 2025-01-11 16:28:56,450 [33mWARN [m [m[Server thread][m [mn.m.s.MinecraftServer.m_130011_(843)[m: Can't keep up! Is the server overloaded? Running 17285ms or 345 ticks behind
 2025-01-11 16:29:00,177 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerGamePacketListenerImpl.m_9957_(1721)[m: DThematewg issued server command: /lagg clear
 2025-01-11 16:29:05,101 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerGamePacketListenerImpl.m_9957_(1721)[m: DThematewg issued server command: /lagg
+2025-01-11 16:29:09,924 [32mINFO [m [m[Server thread][m [mn.m.w.e.n.Villager.m_6667_(568)[m: Villager Villager['Fisherman'/4784, l='ServerLevel[world]', x=-1522.50, y=65.00, z=1191.05] died, message: 'Fisherman was slain by Vindicator'
+2025-01-11 16:29:12,008 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerGamePacketListenerImpl.m_9957_(1721)[m: DThematewg issued server command: /lagg check
+2025-01-11 16:29:15,835 [32mINFO [m [m[Server thread][m [mn.m.w.e.n.Villager.m_6667_(568)[m: Villager Villager['Farmer'/5293, l='ServerLevel[world]', x=-1435.11, y=63.00, z=1125.50] died, message: 'Farmer was shot by Pillager'
+2025-01-11 16:29:27,642 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerGamePacketListenerImpl.m_9957_(1721)[m: DThematewg issued server command: /lagg tuMaridoBelcast
+2025-01-11 16:29:32,742 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerGamePacketListenerImpl.m_9957_(1721)[m: DThematewg issued server command: /lagg tuMaridoBelcast clear
+2025-01-11 16:29:54,522 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerGamePacketListenerImpl.m_9957_(1721)[m: DThematewg issued server command: /lagg gc
+2025-01-11 16:29:59,714 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerGamePacketListenerImpl.m_9957_(1721)[m: DThematewg issued server command: /lagg check
+2025-01-11 16:30:38,804 [32mINFO [m [m[Server thread][m [mn.m.w.e.n.Villager.m_6667_(568)[m: Villager Villager['Villager'/5648, l='ServerLevel[world]', x=-1494.52, y=64.25, z=1081.92] died, message: 'Villager was shot by Pillager'
+2025-01-11 16:31:07,975 [32mINFO [m [m[Server thread][m [mn.m.w.e.n.Villager.m_6667_(568)[m: Villager Villager['Nitwit'/4787, l='ServerLevel[world]', x=-1487.09, y=65.00, z=1217.36] died, message: 'Nitwit was shot by Pillager'
+2025-01-11 16:31:10,168 [33mWARN [m [m[Server thread][m [mn.m.s.MinecraftServer.m_130011_(843)[m: Can't keep up! Is the server overloaded? Running 5004ms or 100 ticks behind
+2025-01-11 16:31:17,515 [32mINFO [m [m[Server thread][m [mn.m.w.e.n.Villager.m_6667_(568)[m: Villager Villager['Farmer'/6164, l='ServerLevel[world]', x=-1455.12, y=63.00, z=1115.41] died, message: 'Farmer was shot by Pillager'
+2025-01-11 16:31:48,544 [33mWARN [m [m[Server thread][m [mn.m.s.MinecraftServer.m_130011_(843)[m: Can't keep up! Is the server overloaded? Running 8380ms or 167 ticks behind
+2025-01-11 16:31:54,929 [32mINFO [m [m[Server thread][m [mn.m.s.d.DedicatedServer.m_6352_(656)[m: tuMaridoBelcast  has made the advancement [Diamonds!]
+2025-01-11 16:32:21,507 [33mWARN [m [m[Server thread][m [m.handleStatisticsIncrease(1399)[m: Unhandled statistic: Stat{name=minecraft.custom:tombstone.undead_killed, formatter=net.minecraft.stats.StatFormatter$$Lambda$3579/0x000078c220a6ba28@9a51965}
+2025-01-11 16:32:23,551 [33mWARN [m [m[Server thread][m [m.handleStatisticsIncrease(1399)[m: Unhandled statistic: Stat{name=minecraft.custom:tombstone.undead_killed, formatter=net.minecraft.stats.StatFormatter$$Lambda$3579/0x000078c220a6ba28@9a51965}
+2025-01-11 16:32:28,297 [33mWARN [m [m[Server thread][m [mn.m.s.MinecraftServer.m_130011_(843)[m: Can't keep up! Is the server overloaded? Running 9783ms or 195 ticks behind
+2025-01-11 16:32:34,813 [32mINFO [m [m[Server thread][m [mn.m.s.d.DedicatedServer.m_6352_(656)[m: paulg12 has made the advancement [Stone Age]
+2025-01-11 16:33:04,461 [33mWARN [m [m[Server thread][m [mn.m.s.MinecraftServer.m_130011_(843)[m: Can't keep up! Is the server overloaded? Running 6197ms or 123 ticks behind
+2025-01-11 16:33:32,067 [32mINFO [m [m[Server thread][m [mn.m.s.d.DedicatedServer.m_6352_(656)[m: DThematewg has made the advancement [Music register]
+2025-01-11 16:33:41,383 [33mWARN [m [m[Server thread][m [mn.m.s.MinecraftServer.m_130011_(843)[m: Can't keep up! Is the server overloaded? Running 6968ms or 139 ticks behind
+2025-01-11 16:33:41,530 [32mINFO [m [m[Server thread][m [mn.m.w.e.n.Villager.m_6667_(568)[m: Villager Villager['Villager'/6157, l='ServerLevel[world]', x=-1441.19, y=64.00, z=1142.29] died, message: 'Villager was shot by Pillager'
+2025-01-11 16:33:44,295 [32mINFO [m [m[Server thread][m [mn.m.w.e.n.Villager.m_6667_(568)[m: Villager Villager['Mason'/5298, l='ServerLevel[world]', x=-1447.85, y=63.00, z=1157.04] died, message: 'Mason was shot by Pillager'
+2025-01-11 16:33:52,567 [32mINFO [m [m[Server thread][m [mn.m.s.d.DedicatedServer.m_6352_(656)[m: DThematewg has made the advancement [Writing...]
+2025-01-11 16:34:08,271 [36mDEBUG[m [m[Server thread][m [mn.m.c.ForgeHooks.writeAdditionalLevelSaveData(1442)[m: Gathering id map for writing to world save world
+2025-01-11 16:34:08,291 [36mDEBUG[m [m[Server thread][m [mn.m.c.ForgeHooks.writeAdditionalLevelSaveData(1448)[m: ID Map collection complete world
+2025-01-11 16:34:30,974 [32mINFO [m [m[Server thread][m [mn.m.s.d.DedicatedServer.m_6352_(656)[m: DThematewg has made the advancement [DJ! DJ!]
+2025-01-11 16:34:31,904 [32mINFO [m [m[Server thread][m [mn.m.s.d.DedicatedServer.m_6352_(656)[m: paulg12 has made the advancement [DJ! DJ!]
+2025-01-11 16:34:36,391 [32mINFO [m [m[Server thread][m [mn.m.w.e.n.Villager.m_6667_(568)[m: Villager Villager['Librarian'/5284, l='ServerLevel[world]', x=-1484.82, y=63.00, z=1172.82] died, message: 'Librarian was shot by Pillager'
+2025-01-11 16:35:01,824 [32mINFO [m [m[Server thread][m [mn.m.s.d.DedicatedServer.m_6352_(656)[m: tuMaridoBelcast  tried to swim in lava
+2025-01-11 16:35:01,834 [32mINFO [m [m[Server thread][m [mtombstone.lambda$handlePlayerDamage$6(486)[m: The player tuMaridoBelcast  has successfully been saved
+2025-01-11 16:35:03,070 [32mINFO [m [m[Server thread][m [mtac.InformPlayerOfUpdate(66)[m: PENDING
+2025-01-11 16:35:03,109 [36mDEBUG[m [m[Server thread][m [mtwilightforest.returnStoredItems(615)[m: Player tuMaridoBelcast  (0e16fe7f-0188-3458-beef-2906a7e5ef2f) respawned and received items held in storage
+2025-01-11 16:35:03,346 [36mDEBUG[m [m[Server thread][m [mtacz.lambda$handle$0(36)[m: Update server base timestamp: 1736613303346
+2025-01-11 16:35:12,053 [32mINFO [m [m[Server thread][m [mn.m.s.d.DedicatedServer.m_6352_(656)[m: DThematewg has reached the goal [Listen directly]
+2025-01-11 16:35:13,115 [32mINFO [m [m[Server thread][m [mn.m.s.d.DedicatedServer.m_6352_(656)[m: paulg12 has reached the goal [Listen directly]
+2025-01-11 16:35:41,448 [32mINFO [m [m[Server thread][m [mn.m.w.e.n.Villager.m_6667_(568)[m: Villager Villager['Farmer'/6167, l='ServerLevel[world]', x=-1493.01, y=63.00, z=1097.01] died, message: 'Farmer was shot by Pillager'
+2025-01-11 16:35:42,200 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerGamePacketListenerImpl.m_9957_(1721)[m: DThematewg issued server command: /tp tuMaridoBelcast DThematewg
+2025-01-11 16:35:57,267 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerGamePacketListenerImpl.m_9957_(1721)[m: DThematewg issued server command: /tp @a DThematewg
+2025-01-11 16:35:57,268 [32mINFO [m [m[Server thread][m [mn.m.s.d.DedicatedServer.m_6352_(656)[m: [DThematewg: Teleported 3 entities to DThematewg]
+2025-01-11 16:36:33,396 [33mWARN [m [m[Server thread][m [m.handleStatisticsIncrease(1399)[m: Unhandled statistic: Stat{name=minecraft.custom:tombstone.raider_killed, formatter=net.minecraft.stats.StatFormatter$$Lambda$3579/0x000078c220a6ba28@9a51965}
+2025-01-11 16:36:38,795 [32mINFO [m [m[Server thread][m [mn.m.s.d.DedicatedServer.m_6352_(656)[m: tuMaridoBelcast  has reached the goal [Listen directly]
+2025-01-11 16:36:38,796 [32mINFO [m [m[Server thread][m [mn.m.s.d.DedicatedServer.m_6352_(656)[m: tuMaridoBelcast  has made the advancement [DJ! DJ!]
+2025-01-11 16:37:21,556 [32mINFO [m [m[Server thread][m [mn.m.s.d.DedicatedServer.m_6352_(656)[m: paulg12 was shot by Skeleton
+2025-01-11 16:37:21,576 [32mINFO [m [m[Server thread][m [mtombstone.lambda$handlePlayerDamage$6(486)[m: The player paulg12 has successfully been saved
+2025-01-11 16:37:23,833 [32mINFO [m [m[Server thread][m [mtac.InformPlayerOfUpdate(66)[m: PENDING
+2025-01-11 16:37:23,868 [36mDEBUG[m [m[Server thread][m [mtwilightforest.returnStoredItems(615)[m: Player paulg12 (2a701247-02e8-355a-8871-0a19f1a70d82) respawned and received items held in storage
+2025-01-11 16:37:24,104 [36mDEBUG[m [m[Server thread][m [mtacz.lambda$handle$0(36)[m: Update server base timestamp: 1736613444104
+2025-01-11 16:37:50,419 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerGamePacketListenerImpl.m_9957_(1721)[m: DThematewg issued server command: /tp @a DThematewg1
+2025-01-11 16:37:52,269 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerGamePacketListenerImpl.m_9957_(1721)[m: DThematewg issued server command: /tp @a DThematewg
+2025-01-11 16:37:52,269 [32mINFO [m [m[Server thread][m [mn.m.s.d.DedicatedServer.m_6352_(656)[m: [DThematewg: Teleported 3 entities to DThematewg]
+2025-01-11 16:37:54,646 [32mINFO [m [m[Server thread][m [mn.m.s.d.DedicatedServer.m_6352_(656)[m: tuMaridoBelcast  has made the advancement [He Was Number One!]
+2025-01-11 16:38:03,695 [32mINFO [m [m[Server thread][m [mn.m.s.d.DedicatedServer.m_6352_(656)[m: tuMaridoBelcast  was shot by Skeleton
+2025-01-11 16:38:03,711 [32mINFO [m [m[Server thread][m [mtombstone.lambda$handlePlayerDamage$6(486)[m: The player tuMaridoBelcast  has successfully been saved
+2025-01-11 16:38:05,058 [32mINFO [m [m[Server thread][m [mtac.InformPlayerOfUpdate(66)[m: PENDING
+2025-01-11 16:38:05,088 [36mDEBUG[m [m[Server thread][m [mtwilightforest.returnStoredItems(615)[m: Player tuMaridoBelcast  (0e16fe7f-0188-3458-beef-2906a7e5ef2f) respawned and received items held in storage
+2025-01-11 16:38:05,227 [36mDEBUG[m [m[Server thread][m [mtacz.lambda$handle$0(36)[m: Update server base timestamp: 1736613485227
+2025-01-11 16:38:09,761 [33mWARN [m [m[Server thread][m [m.handleStatisticsIncrease(1399)[m: Unhandled statistic: Stat{name=minecraft.custom:tombstone.undead_killed, formatter=net.minecraft.stats.StatFormatter$$Lambda$3579/0x000078c220a6ba28@9a51965}
+2025-01-11 16:38:19,168 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerGamePacketListenerImpl.m_9957_(1721)[m: DThematewg issued server command: /tp @a DThematewg
+2025-01-11 16:38:19,169 [32mINFO [m [m[Server thread][m [mn.m.s.d.DedicatedServer.m_6352_(656)[m: [DThematewg: Teleported 3 entities to DThematewg]
+2025-01-11 16:39:07,803 [36mDEBUG[m [m[Server thread][m [mn.m.c.ForgeHooks.writeAdditionalLevelSaveData(1442)[m: Gathering id map for writing to world save world
+2025-01-11 16:39:07,820 [36mDEBUG[m [m[Server thread][m [mn.m.c.ForgeHooks.writeAdditionalLevelSaveData(1448)[m: ID Map collection complete world
