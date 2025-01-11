@@ -77,6 +77,12 @@
     },
     "done": true
   },
+  "friendsandfoes:adventure/the_magicians": {
+    "criteria": {
+      "killed_illusioner": "2025-01-11 15:51:08 +0000"
+    },
+    "done": false
+  },
   "comforts:hammock_red_from_white": {
     "criteria": {
       "has_the_recipe": "2025-01-11 15:17:56 +0000"
@@ -168,6 +174,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/chain_death": {
+    "criteria": {
+      "coded_trigger": "2025-01-11 15:52:08 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_light_gray": {
     "criteria": {
       "has_the_recipe": "2025-01-11 15:17:56 +0000"
@@ -207,7 +219,8 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "apple": "2025-01-11 15:44:06 +0000",
-      "bread": "2025-01-11 15:38:56 +0000"
+      "bread": "2025-01-11 15:38:56 +0000",
+      "carrot": "2025-01-11 16:04:30 +0000"
     },
     "done": false
   },
@@ -350,15 +363,21 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:pillager": "2025-01-11 15:51:43 +0000"
+    },
+    "done": true
+  },
   "takesapillage:root": {
     "criteria": {
       "always": "2025-01-11 15:17:56 +0000"
     },
     "done": true
   },
-  "minecraft:story/obtain_armor": {
+  "friendsandfoes:adventure/kill_illusioner": {
     "criteria": {
-      "iron_helmet": "2025-01-11 15:39:15 +0000"
+      "killed_illusioner": "2025-01-11 15:51:08 +0000"
     },
     "done": true
   },
@@ -371,6 +390,12 @@
   "byg:root": {
     "criteria": {
       "tick": "2025-01-11 15:17:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_helmet": "2025-01-11 15:39:15 +0000"
     },
     "done": true
   },
@@ -544,9 +569,21 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:pillager": "2025-01-11 15:51:43 +0000"
+    },
+    "done": false
+  },
   "mcwfences:recipes/quartz": {
     "criteria": {
       "has_qq": "2025-01-11 15:17:56 +0000"
+    },
+    "done": true
+  },
+  "idas:apothecary_abode": {
+    "criteria": {
+      "in_apothecary_abode": "2025-01-11 15:50:41 +0000"
     },
     "done": true
   },
@@ -616,6 +653,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/first_knowledge": {
+    "criteria": {
+      "coded_trigger": "2025-01-11 15:51:08 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_brown": {
     "criteria": {
       "has_the_recipe": "2025-01-11 15:17:56 +0000"
@@ -649,6 +692,12 @@
   "comforts:hammock_gray": {
     "criteria": {
       "has_the_recipe": "2025-01-11 15:17:56 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ambush": {
+    "criteria": {
+      "coded_trigger": "2025-01-11 15:51:08 +0000"
     },
     "done": true
   },

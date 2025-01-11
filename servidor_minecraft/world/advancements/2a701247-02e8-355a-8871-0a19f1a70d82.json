@@ -47,6 +47,12 @@
     },
     "done": true
   },
+  "obscure_api:recipes/obscure_book": {
+    "criteria": {
+      "has_item": "2025-01-11 15:48:44 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_lime_from_white": {
     "criteria": {
       "has_the_recipe": "2025-01-11 15:33:26 +0000"
@@ -68,6 +74,12 @@
   "comforts:hammock_light_blue_from_white": {
     "criteria": {
       "has_the_recipe": "2025-01-11 15:33:26 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:adventure/root": {
+    "criteria": {
+      "crafting_table": "2025-01-11 15:48:44 +0000"
     },
     "done": true
   },
@@ -276,6 +288,12 @@
     },
     "done": true
   },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2025-01-11 15:48:44 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_light_blue": {
     "criteria": {
       "has_the_recipe": "2025-01-11 15:33:26 +0000"
@@ -325,12 +343,6 @@
     },
     "done": true
   },
-  "minecraft:story/obtain_armor": {
-    "criteria": {
-      "iron_helmet": "2025-01-11 15:46:43 +0000"
-    },
-    "done": true
-  },
   "comforts:sleeping_bag_magenta_from_white": {
     "criteria": {
       "has_the_recipe": "2025-01-11 15:33:26 +0000"
@@ -340,6 +352,12 @@
   "byg:root": {
     "criteria": {
       "tick": "2025-01-11 15:33:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_helmet": "2025-01-11 15:46:43 +0000"
     },
     "done": true
   },
@@ -434,6 +452,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2025-01-11 15:51:30 +0000"
+    },
+    "done": true
+  },
   "explorerscompass:explorers_compass": {
     "criteria": {
       "has_compass": "2025-01-11 15:33:26 +0000"
@@ -497,6 +521,12 @@
   "mcwfences:recipes/quartz": {
     "criteria": {
       "has_qq": "2025-01-11 15:33:26 +0000"
+    },
+    "done": true
+  },
+  "idas:apothecary_abode": {
+    "criteria": {
+      "in_apothecary_abode": "2025-01-11 15:51:15 +0000"
     },
     "done": true
   },
@@ -584,15 +614,21 @@
     },
     "done": true
   },
+  "comforts:hammock_green": {
+    "criteria": {
+      "has_the_recipe": "2025-01-11 15:33:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2025-01-11 15:46:40 +0000"
     },
     "done": true
   },
-  "comforts:hammock_green": {
+  "paraglider:root": {
     "criteria": {
-      "has_the_recipe": "2025-01-11 15:33:26 +0000"
+      "crafting_table": "2025-01-11 15:48:44 +0000"
     },
     "done": true
   },
