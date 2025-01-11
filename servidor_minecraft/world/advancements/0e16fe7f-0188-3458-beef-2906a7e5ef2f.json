@@ -59,6 +59,12 @@
     },
     "done": true
   },
+  "create:copper": {
+    "criteria": {
+      "0": "2025-01-11 16:15:39 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_black_from_white": {
     "criteria": {
       "has_the_recipe": "2025-01-11 15:13:06 +0000"
@@ -224,6 +230,9 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_mutton": "2025-01-11 16:07:46 +0000",
+      "sweet_berries": "2025-01-11 16:13:39 +0000",
+      "porkchop": "2025-01-11 16:14:46 +0000",
       "bread": "2025-01-11 15:36:34 +0000",
       "melon_slice": "2025-01-11 15:31:04 +0000",
       "carrot": "2025-01-11 15:26:04 +0000"
@@ -587,7 +596,8 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2025-01-11 16:03:07 +0000",
-      "minecraft:vindicator": "2025-01-11 15:25:50 +0000"
+      "minecraft:vindicator": "2025-01-11 15:25:50 +0000",
+      "minecraft:silverfish": "2025-01-11 16:16:00 +0000"
     },
     "done": false
   },
@@ -654,6 +664,12 @@
   "comforts:sleeping_bag_magenta": {
     "criteria": {
       "has_the_recipe": "2025-01-11 15:13:06 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_mushroom_mines": {
+    "criteria": {
+      "location0": "2025-01-11 16:12:52 +0000"
     },
     "done": true
   },

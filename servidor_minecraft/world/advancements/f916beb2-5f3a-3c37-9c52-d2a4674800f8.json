@@ -77,6 +77,12 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_boots": "2025-01-11 16:14:33 +0000"
+    },
+    "done": true
+  },
   "friendsandfoes:adventure/the_magicians": {
     "criteria": {
       "killed_illusioner": "2025-01-11 15:51:08 +0000"
@@ -186,6 +192,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/find_grave_dust": {
+    "criteria": {
+      "from_undead": "2025-01-11 16:13:43 +0000"
+    },
+    "done": true
+  },
   "mcwfences:recipes/spruce": {
     "criteria": {
       "has_spruce": "2025-01-11 15:17:56 +0000"
@@ -220,6 +232,7 @@
     "criteria": {
       "apple": "2025-01-11 15:44:06 +0000",
       "bread": "2025-01-11 15:38:56 +0000",
+      "golden_apple": "2025-01-11 16:13:18 +0000",
       "carrot": "2025-01-11 16:04:30 +0000"
     },
     "done": false
@@ -435,6 +448,18 @@
     },
     "done": true
   },
+  "iammusicplayer:iammusicplayer/root": {
+    "criteria": {
+      "iammusicplayer": "2025-01-11 16:14:34 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_magic_scroll": {
+    "criteria": {
+      "has_magic_scroll": "2025-01-11 16:14:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:bamboo_jungle": "2025-01-11 15:17:56 +0000",
@@ -571,7 +596,9 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
-      "minecraft:pillager": "2025-01-11 15:51:43 +0000"
+      "minecraft:pillager": "2025-01-11 15:51:43 +0000",
+      "minecraft:skeleton": "2025-01-11 16:13:43 +0000",
+      "minecraft:spider": "2025-01-11 16:15:34 +0000"
     },
     "done": false
   },
@@ -635,6 +662,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_mushroom_mines": {
+    "criteria": {
+      "location0": "2025-01-11 16:12:24 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_cyan_from_white": {
     "criteria": {
       "has_the_recipe": "2025-01-11 15:17:56 +0000"
@@ -656,6 +689,12 @@
   "tombstone:adventure/first_knowledge": {
     "criteria": {
       "coded_trigger": "2025-01-11 15:51:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-01-11 16:14:17 +0000"
     },
     "done": true
   },

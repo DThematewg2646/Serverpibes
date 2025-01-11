@@ -2375,3 +2375,55 @@ java.lang.Exception: Error: iceandfire:dread_lich is not a valid entity ID!
 2025-01-11 16:05:20,886 [32mINFO [m [m[Server thread][m [m.initFeedingData(94)[m: [1 apple, 1 golden_apple, 1 enchanted_golden_apple, 1 banana]
 2025-01-11 16:05:41,214 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerGamePacketListenerImpl.m_9957_(1721)[m: DThematewg issued server command: /tp @a DThematewg
 2025-01-11 16:05:41,215 [32mINFO [m [m[Server thread][m [mn.m.s.d.DedicatedServer.m_6352_(656)[m: [DThematewg: Teleported 3 entities to DThematewg]
+2025-01-11 16:08:51,611 [32mINFO [m [m[Server thread][m [mn.m.s.d.DedicatedServer.m_6352_(656)[m: paulg12 has made the advancement [He Was Number One!]
+2025-01-11 16:09:07,967 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerGamePacketListenerImpl.m_9957_(1721)[m: paulg12 issued server command: /skin set messi
+2025-01-11 16:09:23,091 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerGamePacketListenerImpl.m_9957_(1721)[m: DThematewg issued server command: /gamemode creative
+2025-01-11 16:09:23,093 [32mINFO [m [m[Server thread][m [mn.m.s.d.DedicatedServer.m_6352_(656)[m: [DThematewg: Set own game mode to Creative Mode]
+2025-01-11 16:09:42,262 [32mINFO [m [m[Server thread][m [mn.m.s.d.DedicatedServer.m_6352_(656)[m: paulg12 has made the advancement [Isn't It Iron Pick]
+2025-01-11 16:10:09,256 [33mWARN [m [m[Worker-Main-5][m [mn.m.s.l.WorldGenRegion.m_7702_(222)[m: Tried to access a block entity before it was created. BlockPos{x=-1149, y=0, z=1559}
+2025-01-11 16:10:09,257 [33mWARN [m [m[Worker-Main-5][m [mn.m.s.l.WorldGenRegion.m_7702_(222)[m: Tried to access a block entity before it was created. BlockPos{x=-1141, y=0, z=1559}
+2025-01-11 16:10:26,909 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerGamePacketListenerImpl.m_9957_(1721)[m: DThematewg issued server command: /gamemode survival
+2025-01-11 16:10:26,910 [32mINFO [m [m[Server thread][m [mn.m.s.d.DedicatedServer.m_6352_(656)[m: [DThematewg: Set own game mode to Survival Mode]
+2025-01-11 16:10:34,000 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerGamePacketListenerImpl.m_9957_(1721)[m: DThematewg issued server command: /tp @a DThematewg
+2025-01-11 16:10:34,001 [32mINFO [m [m[Server thread][m [mn.m.s.d.DedicatedServer.m_6352_(656)[m: [DThematewg: Teleported 3 entities to DThematewg]
+2025-01-11 16:10:38,997 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerGamePacketListenerImpl.m_9957_(1721)[m: DThematewg issued server command: /gamemode creative
+2025-01-11 16:10:38,998 [32mINFO [m [m[Server thread][m [mn.m.s.d.DedicatedServer.m_6352_(656)[m: [DThematewg: Set own game mode to Creative Mode]
+2025-01-11 16:11:02,949 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerGamePacketListenerImpl.m_9957_(1721)[m: DThematewg issued server command: /gamemode survival
+2025-01-11 16:11:02,950 [32mINFO [m [m[Server thread][m [mn.m.s.d.DedicatedServer.m_6352_(656)[m: [DThematewg: Set own game mode to Survival Mode]
+2025-01-11 16:11:33,814 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerGamePacketListenerImpl.m_9957_(1721)[m: DThematewg issued server command: /give @a minecraft:bread 64
+2025-01-11 16:11:33,826 [32mINFO [m [m[Server thread][m [mn.m.s.d.DedicatedServer.m_6352_(656)[m: [DThematewg: Gave 64    [Bread] to 3]
+2025-01-11 16:11:37,126 [32mINFO [m [m[Server thread][m [mn.m.c.AdvancementLoadFix.loadVisibility(36)[m: Using new advancement loading for net.minecraft.server.PlayerAdvancements@62c6fcce
+2025-01-11 16:12:47,347 [32mINFO [m [m[Server thread][m [mn.m.s.d.DedicatedServer.m_6352_(656)[m: paulg12 fell from a high place
+2025-01-11 16:12:47,348 [32mINFO [m [m[Server thread][m [mtombstone.lambda$handlePlayerDamage$6(486)[m: The player paulg12 has successfully been saved
+2025-01-11 16:12:49,558 [32mINFO [m [m[Server thread][m [mtac.InformPlayerOfUpdate(66)[m: PENDING
+2025-01-11 16:13:05,807 [32mINFO [m [m[Server thread][m [mn.m.s.d.DedicatedServer.m_6352_(656)[m: paulg12 has reached the goal [Here They Come]
+2025-01-11 16:13:19,556 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerGamePacketListenerImpl.m_9957_(1721)[m: DThematewg issued server command: /gamemode creative
+2025-01-11 16:13:19,556 [32mINFO [m [m[Server thread][m [mn.m.s.d.DedicatedServer.m_6352_(656)[m: [DThematewg: Set own game mode to Creative Mode]
+2025-01-11 16:13:43,307 [33mWARN [m [m[Server thread][m [m.handleStatisticsIncrease(1399)[m: Unhandled statistic: Stat{name=minecraft.custom:tombstone.undead_killed, formatter=net.minecraft.stats.StatFormatter$$Lambda$3579/0x000078c220a6ba28@9a51965}
+2025-01-11 16:13:43,310 [32mINFO [m [m[Server thread][m [mn.m.s.d.DedicatedServer.m_6352_(656)[m: DThematewg has made the advancement [A Strange Grave Dust]
+2025-01-11 16:14:13,609 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerGamePacketListenerImpl.m_9957_(1721)[m: DThematewg issued server command: /gamemode survival
+2025-01-11 16:14:13,609 [32mINFO [m [m[Server thread][m [mn.m.s.d.DedicatedServer.m_6352_(656)[m: [DThematewg: Set own game mode to Survival Mode]
+2025-01-11 16:14:17,054 [32mINFO [m [m[Server thread][m [mn.m.s.d.DedicatedServer.m_6352_(656)[m: DThematewg has made the advancement [Diamonds!]
+2025-01-11 16:14:30,584 [32mINFO [m [m[Async Chat Thread - #0][m [mColouredConsoleSender.sendMessage(55)[m: <tuMaridoBelcast > xaero-waypoint:Shared Location:S:-1209:86:1237:7:false:0:Internal-overworld-waypoints
+2025-01-11 16:14:33,905 [32mINFO [m [m[Server thread][m [mn.m.s.d.DedicatedServer.m_6352_(656)[m: DThematewg has made the advancement [Cover Me with Diamonds]
+2025-01-11 16:14:37,610 [32mINFO [m [m[Server thread][m [mn.m.s.d.DedicatedServer.m_6352_(656)[m: DThematewg has made the advancement [Magic Writing]
+2025-01-11 16:15:52,207 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerGamePacketListenerImpl.m_9957_(1721)[m: DThematewg issued server command: /tp paulg12 DThematewg
+2025-01-11 16:15:52,208 [32mINFO [m [m[Server thread][m [mn.m.s.d.DedicatedServer.m_6352_(656)[m: [DThematewg: Teleported paulg12 to DThematewg]
+2025-01-11 16:16:58,528 [32mINFO [m [m[Server thread][m [mn.m.w.e.n.Villager.m_6667_(568)[m: Villager Villager['Villager'/4778, l='ServerLevel[world]', x=-1499.46, y=64.00, z=1226.70] died, message: 'Villager was slain by Vindicator'
+2025-01-11 16:17:12,587 [33mWARN [m [m[Worker-Main-4][m [mn.m.w.l.l.s.p.JigsawPlacement.m_210333_(106)[m: Empty or non-existent pool: minecraft:mvs/side_pool
+2025-01-11 16:17:14,722 [32mINFO [m [m[Server thread][m [mn.m.w.e.n.Villager.m_6667_(568)[m: Villager Villager['Fisherman'/4790, l='ServerLevel[world]', x=-1511.70, y=63.69, z=1188.51] died, message: 'Fisherman was slain by Vindicator'
+2025-01-11 16:17:14,975 [32mINFO [m [m[Server thread][m [mn.m.w.e.n.Villager.m_6667_(568)[m: Villager Villager['Fisherman'/4791, l='ServerLevel[world]', x=-1457.21, y=63.00, z=1167.95] died, message: 'Fisherman was slain by Vindicator'
+2025-01-11 16:17:29,391 [32mINFO [m [m[Server thread][m [mn.m.w.e.n.Villager.m_6667_(568)[m: Villager Villager['Butcher'/4776, l='ServerLevel[world]', x=-1478.21, y=63.94, z=1205.53] died, message: 'Butcher was shot by Pillager'
+2025-01-11 16:17:30,288 [32mINFO [m [m[Server thread][m [mn.m.w.e.n.Villager.m_6667_(568)[m: Villager Villager['Fisherman'/4777, l='ServerLevel[world]', x=-1501.66, y=64.20, z=1226.69] died, message: 'Fisherman was shot by Pillager'
+2025-01-11 16:17:37,740 [33mWARN [m [m[Server thread][m [mn.m.s.MinecraftServer.m_130011_(843)[m: Can't keep up! Is the server overloaded? Running 5026ms or 100 ticks behind
+2025-01-11 16:17:44,575 [32mINFO [m [m[Server thread][m [mn.m.s.d.DedicatedServer.m_6352_(656)[m: tuMaridoBelcast  has made the advancement [People Are Strange]
+2025-01-11 16:18:07,205 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerGamePacketListenerImpl.m_9957_(1721)[m: DThematewg issued server command: /gamemode creative
+2025-01-11 16:18:07,206 [32mINFO [m [m[Server thread][m [mn.m.s.d.DedicatedServer.m_6352_(656)[m: [DThematewg: Set own game mode to Creative Mode]
+2025-01-11 16:18:15,421 [33mWARN [m [m[Server thread][m [mn.m.s.MinecraftServer.m_130011_(843)[m: Can't keep up! Is the server overloaded? Running 7707ms or 154 ticks behind
+2025-01-11 16:18:22,007 [33mWARN [m [m[Server thread][m [m.handleStatisticsIncrease(1399)[m: Unhandled statistic: Stat{name=minecraft.custom:tombstone.undead_killed, formatter=net.minecraft.stats.StatFormatter$$Lambda$3579/0x000078c220a6ba28@9a51965}
+2025-01-11 16:18:34,467 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerGamePacketListenerImpl.m_9957_(1721)[m: DThematewg issued server command: /gamemode survival
+2025-01-11 16:18:34,467 [32mINFO [m [m[Server thread][m [mn.m.s.d.DedicatedServer.m_6352_(656)[m: [DThematewg: Set own game mode to Survival Mode]
+2025-01-11 16:18:38,614 [32mINFO [m [m[Server thread][m [mn.m.s.d.DedicatedServer.m_6352_(656)[m: DThematewg has made the advancement [Acquire Hardware]
+2025-01-11 16:18:39,993 [33mWARN [m [m[Worker-Main-6][m [mn.m.w.e.EntityType.m_185999_(474)[m: Skipping Entity with id minecraft:allay
+2025-01-11 16:18:50,844 [32mINFO [m [m[Server thread][m [mn.m.s.d.DedicatedServer.m_6352_(656)[m: DThematewg has made the advancement [Your First Receptacle]
+2025-01-11 16:18:51,605 [33mWARN [m [m[Server thread][m [mn.m.s.MinecraftServer.m_130011_(843)[m: Can't keep up! Is the server overloaded? Running 6190ms or 123 ticks behind
